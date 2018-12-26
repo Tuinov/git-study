@@ -1,5 +1,8 @@
+
 print("hello, world;")
 print("hello, everybody;")
 alert("do it!;")
 print("hello;")
 print("new;")
+print("new2;")
+
